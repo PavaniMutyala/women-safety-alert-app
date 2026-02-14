@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GuardiaAI - Women Safety System",
+  "description": "An AI-powered safety application providing one-tap SOS alerts, voice distress detection, and risk-aware route planning for public and rural safety.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
